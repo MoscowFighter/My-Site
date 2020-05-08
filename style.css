@@ -12,7 +12,8 @@ body {
 }
 
 .container {
-  max-width: 928px;
+  /*max-width: 928px;*/
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -83,7 +84,7 @@ body {
 }
 
 .user-image {
-  /*margin: 0 0 32px;*/
+  margin: 0 0 32px;
   text-align: center;
 }
 
